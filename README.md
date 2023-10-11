@@ -1,6 +1,13 @@
-# pi-gen
+# pi-gen-r2_control
 
-Tool used to create Raspberry Pi OS images. (Previously known as Raspbian).
+This is a custom template for generating PiOS images with R2 Control pre installed and a base config ready to go.
+
+r2_control : https://github.com/dpoulson/r2_control
+
+Main Pi code is enabled as per the wiki page, except for the Optional Steps. Along with that the basic web 
+interface is configured and should run out of the box.
+
+https://github.com/dpoulson/r2_control/wiki/Raspberry-Pi-Core
 
 
 ## Dependencies
